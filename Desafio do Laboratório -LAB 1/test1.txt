@@ -1,0 +1,4 @@
+./fibonacci 40
+./fibonacci 41
+./fibonacci 42
+exit

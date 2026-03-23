@@ -1,0 +1,6 @@
+./fibonacci 35
+/bin/sleep 2
+./fibonacci 40
+/bin/date
+./fibonacci 42
+exit
